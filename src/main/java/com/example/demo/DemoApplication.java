@@ -11,7 +11,7 @@ public class DemoApplication {
 		try {
 			SpringApplication.run(DemoApplication.class, args);
 		} catch (Exception e){
-			System.out.println("错误le?"+e);
+			System.out.println("错误le?!"+e);
 		}
 	}
 
